@@ -4,11 +4,11 @@ The thesis entitled "Statistical Modelling and Analysis of Time-to-Event Data un
 
 #===================Summary of Chapters===========#
 
-Chapter 1 highlights the basic concepts related to time-to-event data, competing risks, and computational techniques for estimation under the Bayesian paradigm. 
-Chapter 2 stressed on parametric modelling of recall-based data, utilizing the Weibull distribution under the Bayesian paradigm with a focus on the ordering of parameters. 
-Chapter 3 is focused on the modelling of competing risks data along with the estimation of parameters by their inferential ordering based on reference priors. 
-Chapter 4 focuses on analysing the competing risks data when there is prior information for some of the parameters but not for the rest of the parameters.
-Chapter 5 extends the basic survival model to incorporate the longitudinal history of the individuals with a focus on masked competing risk data.
+Chapter 1 highlights the basic concepts related to time-to-event data, competing risks, and computational techniques for estimation under the Bayesian paradigm. <br>
+Chapter 2 stressed on parametric modelling of recall-based data, utilizing the Weibull distribution under the Bayesian paradigm with a focus on the ordering of parameters.<br> 
+Chapter 3 is focused on the modelling of competing risks data along with the estimation of parameters by their inferential ordering based on reference priors.<br> 
+Chapter 4 focuses on analysing the competing risks data when there is prior information for some of the parameters but not for the rest of the parameters.<br>
+Chapter 5 extends the basic survival model to incorporate the longitudinal history of the individuals with a focus on masked competing risk data.<br>
 
 Tools Used: Data Augmentation Techniques, Metropolis-Hastings Markov Chain Monte Carlo (MCMC) Methods and Gibbs Sampler.
 
