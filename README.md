@@ -10,9 +10,9 @@ Chapter 2 stressed on parametric modelling of recall-based data, utilizing the W
 <br>
 Chapter 3 is focused on the modelling of competing risks data along with the estimation of parameters by their inferential ordering based on reference priors.<br> 
 <br>
-Chapter 4 focuses on analysing the competing risks data when there is prior information for some of the parameters but not for the rest of the parameters.<be>
+Chapter 4 focuses on analysing the competing risks data when there is prior information for some of the parameters but not for the rest of the parameters.<br>
 <br>
-Chapter 5 extends the basic survival model to incorporate the longitudinal history of the individuals with a focus on masked competing risk data.<br>
+Chapter 5 extends the basic survival model to incorporate the longitudinal history of the individuals with a focus on masked competing risk data.
 
 Tools Used: Data Augmentation Techniques, Metropolis-Hastings Markov Chain Monte Carlo (MCMC) Methods and Gibbs Sampler.
 
